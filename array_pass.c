@@ -1,3 +1,6 @@
+/******************************************************
+passing array in a function
+*******************************************************/
 #include<stdio.h>
 void print_array(int arr[],int n)
 {
